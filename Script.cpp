@@ -93,7 +93,7 @@ vector<vector<int>> ProcessData(vector<vector<string>> data){
         }
         instance.push_back(steelCount);
         instance.push_back(bronzeCount);
-        instance.push_back(goldCount);
+        instance.push_back(silverCount);
         instance.push_back(goldCount);
 
         result.push_back(instance);
